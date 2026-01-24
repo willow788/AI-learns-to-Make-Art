@@ -113,5 +113,5 @@ Pull requests and new creative notebooks are always welcome!
 
 <p align="center">
   <em>Unleash the neural imagination. Make machines dream with code!</em> <br>
-  <img src="https://github.com/willow788/AI-learns-to-Make-Art/raw/main/Sample%20images/output1.jpg" alt="AI Dream Output" width="160"/>
+  <img src="Sample images/3.png" alt="AI Dream Output" width="160"/>
 </p>
