@@ -79,6 +79,13 @@ python deep_dream.py --help
 <p align="center">
   <img src="https://github.com/willow788/Deep-Dreaming/blob/main/Sample%20images/Screenshot%202026-01-16%20031002.png" width="220"/>
   <img src="https://github.com/willow788/Deep-Dreaming/blob/main/Sample%20images/Screenshot%202026-01-16%20031014.png" width="220"/>
+  <img src="https://github.com/willow788/Deep-Dreaming/blob/main/Sample%20images/3.png" width="220"/>
+  <img src="https://github.com/willow788/Deep-Dreaming/blob/main/Sample%20images/4.png" width="220"/>
+  <img src="https://github.com/willow788/Deep-Dreaming/blob/main/Sample%20images/5.png" width="220"/>
+  <img src="https://github.com/willow788/Deep-Dreaming/blob/main/Sample%20images/7.png" width="220"/>
+  <img src="https://github.com/willow788/Deep-Dreaming/blob/main/Sample%20images/drugs.png" width="220"/>
+  <img src="https://github.com/willow788/Deep-Dreaming/blob/main/Sample%20images/oct fin.png" width="220"/>
+  <img src="https://github.com/willow788/Deep-Dreaming/blob/main/Sample%20images/octave.png" width="220"/>
  
 </p>
 
