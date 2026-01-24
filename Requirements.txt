@@ -1,0 +1,9 @@
+# Core requirements for Deep Dreaming
+python>=3.11.3
+tensorflow>=2.0.0  
+# Image processing
+numpy
+pillow
+opencv-python
+# Visualization (for notebooks and scripts)
+matplotlib
