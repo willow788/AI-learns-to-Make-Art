@@ -3,7 +3,7 @@
 Welcome to **AI Learns to Make Art** — a creative playground for using deep learning to generate mesmerizing, dream-like images and visualizations. Here, neural networks become your paintbrush!
 
 <p align="center">
-  <img src="Sample images/3.png" alt="Deep Dream Art Example" width="60%" style="border-radius:10px; box-shadow:2px 5px 25px #0002">
+  <img src="Sample images/drugs.png" alt="Deep Dream Art Example" width="60%" style="border-radius:10px; box-shadow:2px 5px 25px #0002">
 </p>
 
 ---
@@ -40,12 +40,21 @@ AI-learns-to-Make-Art/
 ## 🖼️ Sample Artworks
 
 Below are a few examples of what you can create with this repo.
-*(Change these as you add your own images!)*
+
 
 <p align="center">
   <img src="Sample images/Neural style transfer samples/lotus.png" alt="Input Content" width="200"/>
   <img src="Sample images/Neural style transfer samples/blue_swirls.png" alt="Style Ref" width="200"/>
   <img src="Sample images/Neural style transfer samples/blue.png" alt="Result Example" width="200"/>
+  <img src="Sample images/456.png" alt="Result Example" width="200"/>
+  <img src="Sample images/3.png" alt="Result Example" width="200"/>
+  <img src="Sample images/5.png" alt="Result Example" width="200"/>
+  <img src="Sample images/7.png" alt="Result Example" width="200"/>
+  <img src="Sample images/oct fin.png" alt="Result Example" width="200"/>
+  <img src="Sample images/sea1.png" alt="Result Example" width="200"/>
+  <img src="Sample images/sea2.png" alt="Result Example" width="200"/>
+  <img src="Sample images/octave.png" alt="Result Example" width="200"/>
+  
 </p>
 
 | Content Image | Style Image | Output Image |
